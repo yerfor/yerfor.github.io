@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-`<span class='anchor' id='about-me'>`
 
 I am a second-year CS Ph.D. student at Zhejiang University, fortunately advised by Prof. [Zhou Zhao (赵洲)](https://person.zju.edu.cn/zhaozhou). I also got my Bs.s from  school of aerospace and astronautics, Zhejiang University with a bachelor's degree. I won the National Scholarship in 2021.
 
