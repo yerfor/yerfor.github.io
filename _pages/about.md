@@ -18,7 +18,7 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 ## 🎙 Speech Synthesis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/synta.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"></div>
 
 [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](https://arxiv.org/abs/2204.11792) \\
 **Zhenhui Ye**, Zhou Zhao, Yi Ren, Fei Wu
@@ -29,7 +29,7 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 
 
 </div>
-</div
+</div>
 
 
 
