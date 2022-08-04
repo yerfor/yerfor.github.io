@@ -27,7 +27,6 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 
 - SyntaSpeech is the first syntax-aware non-autoregressive speech synthesis model.
 
-
 </div>
 </div>
 
@@ -35,16 +34,14 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 
 ## 📚 Deep Reinforcement Learning
 
-- [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395), Zhenhui Ye, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** \| [**Project**](https://github.com/yerfor/Soft-DRGN)
-- [Multi-agent Deep Reinforcement Learning for Voltage Control with Coordinated Active and Reactive Power Optimization](https://ieeexplore.ieee.org/document/9805763), Daner Hu, Zhenhui Ye, Yuanqi Gao, Zuzhao Ye, Yonggang Peng, Napeng Yu, **IEEE transactions on Smart Grid 2022**
-- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://www.aclweb.org/anthology/2020.acl-main.350), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 202**
-
+- [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395), **Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** \| [**Project**](https://github.com/yerfor/Soft-DRGN)
+- [Multi-agent Deep Reinforcement Learning for Voltage Control with Coordinated Active and Reactive Power Optimization](https://ieeexplore.ieee.org/document/9805763), Daner Hu, **Zhenhui Ye**, Yuanqi Gao, Zuzhao Ye, Yonggang Peng, Napeng Yu, **IEEE transactions on Smart Grid 2022**
+- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://www.aclweb.org/anthology/2020.acl-main.350), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
 
 # 🎖 Honors and Awards
 
 - *2020.10* National Scholarship (as Master Student) (Top 1%)
 - *2020.6* Outstanding Graduate of Zhejiang University (Top 5%)
-
 
 # 📖 Educations
 
