@@ -27,8 +27,10 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 
 - SyntaSpeech is the first syntax-aware non-autoregressive speech synthesis model.
 
+
 </div>
-</div>
+</div
+
 
 
 ## 📚 Deep Reinforcement Learning
