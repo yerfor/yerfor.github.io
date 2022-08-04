@@ -13,7 +13,7 @@ I am a second-year CS Ph.D. student at Zhejiang University, fortunately advised 
 
 My current research interests include Text-to-Speech (TTS) and 3D Talking Face Synthesis. I have also deeply investigated Deep Reinforcement Learning (DRL) and  Multi-Agent Systems (MAS). I have published 9 papers in high-impact conference/journals, including IJCAI and IEEE TMC.
 
-# 📝 Publications
+# 📝 Selected Publications
 
 ## 🎙 Speech Synthesis
 
@@ -26,6 +26,10 @@ My current research interests include Text-to-Speech (TTS) and 3D Talking Face S
 [**Project**](https://github.com/yerfor/SyntaSpeech) [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
 
 - SyntaSpeech is the first syntax-aware non-autoregressive speech synthesis model.
+
+</div>
+</div>
+
 
 ## 📚 Deep Reinforcement Learning
 

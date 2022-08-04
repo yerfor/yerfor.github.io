@@ -1,4 +1,4 @@
-# 📝 Publications
+# 📝 Selected Publications
 
 ## 🎙 Speech Synthesis
 
@@ -11,7 +11,6 @@
 [**Project**](https://github.com/yerfor/SyntaSpeech) [![](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
 
 - SyntaSpeech is the first syntax-aware non-autoregressive speech synthesis model.
-
 
 ## 📚 Deep Reinforcement Learning
 
