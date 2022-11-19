@@ -1,5 +1,4 @@
-
-# 📝 Selected Publications
+# 📝 Publications
 
 ## 🎙 Speech Synthesis
 
@@ -17,6 +16,25 @@
 </div>
 </div>
 
+- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
+
+
+## 🦸 Digital Human
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/geneface.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2204.11792) \\
+**Zhenhui Ye**, Ziyue Jiang, Yi Ren, Jinglin Liu, Jinzheng He, Zhou Zhao
+
+[**Project**](https://github.com/yerfor/GeneFace) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
+
+- GeneFace improves the generalizability to OOD audio of previous NeRF-based talking face generation methods.
+- It is the first work that handles the "mean face" problem in the talking face generation task. 
+
+</div>
+</div>
 
 
 ## 📚 Deep Reinforcement Learning
