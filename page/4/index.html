@@ -162,6 +162,81 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/07/12/uav-02/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Zhenhui Ye">
+      <meta itemprop="description" content="Be a superhero.">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="yerfor's Journey">
+    </span>
+      <header class="post-header">
+        <h2 class="post-title" itemprop="name headline">
+          
+            <a href="/2019/07/12/uav-02/" class="post-title-link" itemprop="url">基于视觉决策的无人机控制系统设计</a>
+        </h2>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2019-07-12 20:09:13" itemprop="dateCreated datePublished" datetime="2019-07-12T20:09:13+08:00">2019-07-12</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2019-12-12 16:23:00" itemprop="dateModified" datetime="2019-12-12T16:23:00+08:00">2019-12-12</time>
+              </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+          <h2 id="0-引言"><a href="#0-引言" class="headerlink" title="0. 引言"></a>0. 引言</h2><p>传统无人机控制手段有RC控制和地面站控制，这两种方式都具有高度依赖手动控制、受通信距离限制的局限性。随着硬件算力的提高和理论的发展，学界开始尝试开发能够独立生存、自主完成任务的无人机。</p>
+<p>机器人操作系统（Robot Operating System，ROS）是一组开源的软件库，它可以帮助开发者构建机器人应用环境。ROS的核心概念有节点（Node）和话题（Topic），节点可以处理数据，解决具体问题，然后将结果以话题的形式广播（Publish）到通信域中，供需要的节点订阅（Subscribe）。</p>
+<p>值得关注的是，MAVROS作为ROS的一个拓展包，提供了基于MAVLink协议的ROS与PX4、APM等主流飞行控制固件之间的通信功能。这意味着我们只需要在ROS中搭建做出飞行决策的系统，再简单地以MAVROS作为桥梁将ROS中的控制指令信息传输到飞控固件，就能够搭建一个无人机的控制系统。</p>
+<p>基于ROS、YOLO、PX4等软件模块，本文介绍了一种可以独立生存、自主决策并灵活完成任务的微型无人机软件系统。<br></p>
+          <!--noindex-->
+            <div class="post-button">
+              <a class="btn" href="/2019/07/12/uav-02/#more" rel="contents">
+                阅读全文 &raquo;
+              </a>
+            </div>
+          <!--/noindex-->
+        
+      
+    </div>
+
+    
+    
+    
+      <footer class="post-footer">
+        <div class="post-eof"></div>
+      </footer>
+  </article>
+  
+  
+  
+
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/07/07/uav-01/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -301,7 +376,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">31</span>
+          <span class="site-state-item-count">32</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
