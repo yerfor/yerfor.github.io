@@ -2,6 +2,20 @@
 
 ## 🎙 Speech Synthesis
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/clapspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](https://arxiv.org/abs/2204.11792) \\
+**Zhenhui Ye**, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Zhou Zhao
+
+[**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
+
+- CLAPSpeech is the first contrastive learning method that focus on the prosody-related text representation of text-to-speech (TTS).
+- CLAPSpeech provides a convenient plug-in text encoder applicable for all TTS model to improve prosody.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/synta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
