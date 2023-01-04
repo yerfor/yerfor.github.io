@@ -10,8 +10,8 @@
 
 [**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
 
-- CLAPSpeech is the first contrastive learning method that focus on the prosody-related text representation of text-to-speech (TTS).
-- CLAPSpeech provides a convenient plug-in text encoder applicable for all TTS model to improve prosody.
+- CLAPSpeech is the first contrastive learning method that focus on extracting prosody-related text representation for text-to-speech (TTS).
+- It provides a convenient plug-in text encoder applicable for all TTS model to improve prosody.
 
 </div>
 </div>
@@ -24,8 +24,8 @@
 
 [**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
 
-- SyntaSpeech is the first syntax-aware non-autoregressive speech synthesis model.
-- We design a syntax graph to extract information from input text for better prosody.
+- SyntaSpeech is the first syntax-aware non-autoregressive TTS acoustic model.
+- We design a syntatic graph encoder to extract syntactic information to improve prosody.
 
 </div>
 </div>
@@ -44,8 +44,8 @@
 
 [**Project**](https://github.com/yerfor/GeneFace) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
 
-- GeneFace improves the generalizability to OOD audio of previous NeRF-based talking face generation methods.
-- It is the first work that handles the "mean face" problem in the talking face generation task. 
+- GeneFace improves the generalizability to OOD audio of NeRF-based talking face generation methods.
+- It utilizes a generative model to generate accurate and expressive facial motion.
 
 </div>
 </div>
