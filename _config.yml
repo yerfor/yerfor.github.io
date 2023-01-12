@@ -115,7 +115,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
+# Defaults 添加一个默认的布局给站点中的所有页面和文章
 defaults:
   # _pages
   - scope:
