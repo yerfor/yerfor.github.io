@@ -1,5 +1,5 @@
 # 🎖 荣誉奖项
-<a name="荣誉奖项"></a>
-- 2022.10 Tecent Scholarship (as Ph.D Student) (top 1%)
-- *2021.10* National Scholarship (as Master Student) (Top 1%)
-- *2020.6* Outstanding Graduate of Zhejiang University (as Undergraduate Student) (Top 5%)
+
+- *2022.10* 腾讯奖学金 (博士生) (top 1%)
+- *2021.10* 国家奖学金 (硕士生) (Top 1%)
+- *2020.6* 浙江大学优秀毕业生 (本科生) (Top 5%)

@@ -1,5 +1,5 @@
 # 📖 教育经历
 
-- *2021.9 - 2025.9 (now)* Ph.D student, College of Computer Science and Technology, Zhejiang University, Hangzhou.
-- *2020.06 - 2021.9*, Master student, School of Aerospace and Astronautics, Zhejiang University, Hangzhou.
-- *2016.09 - 2020.06*, Undergraduate, School of Aerospace and Astronautics, Zhejiang Univeristy, Hangzhou.
+- *2021.9 - 2025.9 (目前)* 博士生, 浙江大学计算机学院
+- *2020.06 - 2021.9*, 硕士生, 浙江大学航空航天学院
+- *2016.09 - 2020.06*, 本科, 浙江大学航空航天学院
