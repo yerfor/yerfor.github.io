@@ -12,8 +12,6 @@ redirect_from:
   - /about.html
   - /about_zh.html
 ---
-About_ZH
-
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/zh/intro.md %}
 
