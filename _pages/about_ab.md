@@ -4,7 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-
+  - /about_ab/
+  - /about_ab.html
 ---
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
