@@ -8,7 +8,7 @@
 [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](https://arxiv.org/abs/2204.11792) \\
 **Zhenhui Ye**, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Zhou Zhao
 
-[**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
+[**Project**](https://github.com/yerfor/CLAPSpeech) [![img](https://img.shields.io/github/stars/yerfor/CLAPSpeech?style=social)](https://github.com/yerfor/CLAPSpeech)
 
 - CLAPSpeech is the first contrastive learning method that focus on extracting prosody-related text representation for text-to-speech (TTS).
 - It provides a convenient plug-in text encoder applicable for all TTS model to improve prosody.
