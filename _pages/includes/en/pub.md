@@ -39,7 +39,6 @@
 </div>
 </div>
 
-
 ## 📚 Deep Reinforcement Learning
 
 - [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395), **Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** \| [**Project**](https://github.com/yerfor/Soft-DRGN)
