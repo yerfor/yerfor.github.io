@@ -3,6 +3,18 @@
 ## 🎙 语音合成
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='../images/clapspeech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](https://arxiv.org/abs/2204.11792) \\
+**Zhenhui Ye**, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Yin Xiang, Zhou Zhao, **ACL 2023**
+
+[**Project**](https://github.com/yerfor/CLAPSpeech) [![img](https://img.shields.io/github/stars/yerfor/CLAPSpeech?style=social)](https://github.com/yerfor/CLAPSpeech)
+
+- CLAPSpeech是首个聚焦于提取韵律相关的文本表征学习工作。也是首个将文本-语音跨模态对比学习用于语音合成领域的工作。
+- 它为现有的语音合成系统提供了一个方便可插拔的文本编码器，可以明显提升原语音合成模型的韵律性能。
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
