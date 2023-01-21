@@ -2,9 +2,6 @@
 
 ## 🎙 Speech Synthesis
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='../images/clapspeech.png' alt="sym" width="100%"></div></div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,6 +35,7 @@
 
 </div>
 </div>
+
 
 ## 📚 Deep Reinforcement Learning
 

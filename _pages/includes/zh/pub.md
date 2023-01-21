@@ -2,8 +2,6 @@
 
 ## 🎙 语音合成
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='../images/clapspeech.png' alt="sym" width="100%"></div></div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -19,6 +17,7 @@
 </div>
 
 - [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
+
 
 ## 🦸 说话人视频合成（数字人）
 
