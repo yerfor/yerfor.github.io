@@ -16,7 +16,7 @@
 </div>
 </div>
 
-- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
+- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](https://arxiv.org/abs/2206.02147), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
 
 
 ## 🦸 Digital Human
@@ -25,7 +25,7 @@
 <div class='paper-box-text' markdown="1">
 
 
-[Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2204.11792) \\
+[Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430) \\
 **Zhenhui Ye**, Ziyue Jiang, Yi Ren, Jinglin Liu, Jinzheng He, Zhou Zhao
 
 [**Project**](https://github.com/yerfor/GeneFace) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
