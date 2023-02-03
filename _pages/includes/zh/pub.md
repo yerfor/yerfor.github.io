@@ -19,7 +19,7 @@
 - [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
 
 
-## 🦸 说话人视频合成（数字人）
+## 🦸 说话人视频合成（虚拟人）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='../images/geneface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,16 +40,18 @@
 ## 📚 深度强化学习与多智能体系统
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395) \\
-**Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** 
+**Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. 
 
-[**Project**](https://github.com/yerfor/Soft-DRGN) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/Soft-DRGN)
+**IEEE transactions on Mobile Computing 2022** 
+
+[**Project**](https://github.com/yerfor/Soft-DRGN) [![img](https://img.shields.io/github/stars/yerfor/Soft-DRGN?style=social)](https://github.com/yerfor/Soft-DRGN)
 
 - 提出利用图注意力网络实现多智能体间可学习的通讯协作，配合GRU实现历史信息的利用。
+- 提出Soft-DRGN算法，以训练鲁棒高效的随机性策略。
 
 </div>
 </div>

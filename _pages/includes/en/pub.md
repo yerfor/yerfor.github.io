@@ -39,6 +39,21 @@
 
 ## 📚 Deep Reinforcement Learning
 
-- [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395), **Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** \| [**Project**](https://github.com/yerfor/Soft-DRGN)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395) \\
+**Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. 
+
+**IEEE transactions on Mobile Computing 2022** 
+
+[**Project**](https://github.com/yerfor/Soft-DRGN) [![img](https://img.shields.io/github/stars/yerfor/Soft-DRGN?style=social)](https://github.com/yerfor/Soft-DRGN)
+ 
+- We propose to utilize graph attention network to learn the inter-agent communication.
+- We propose Soft-DRGN to learn robust stochastic policies.
+
+</div>
+</div>
+
 - [Multi-agent Deep Reinforcement Learning for Voltage Control with Coordinated Active and Reactive Power Optimization](https://ieeexplore.ieee.org/document/9805763), Daner Hu, **Zhenhui Ye**, Yuanqi Gao, Zuzhao Ye, Yonggang Peng, Napeng Yu, **IEEE transactions on Smart Grid 2022**
 - [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://www.aclweb.org/anthology/2020.acl-main.350), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
