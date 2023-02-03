@@ -25,7 +25,7 @@
 <div class='paper-box-text' markdown="1">
 
 
-[Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2204.11792) \\
+[Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430) \\
 **Zhenhui Ye**, Ziyue Jiang, Yi Ren, Jinglin Liu, Jinzheng He, Zhou Zhao, **ICLR 2023**
 
 [**Project**](https://github.com/yerfor/GeneFace) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
