@@ -39,6 +39,21 @@
 
 ## 📚 深度强化学习与多智能体系统
 
-- [Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395), **Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** \| [**Project**](https://github.com/yerfor/Soft-DRGN)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Multi-UAV Navigation for Partially Observable Communication Coverage by Graph Reinforcement Learning](https://ieeexplore.ieee.org/document/9697395) \\
+**Zhenhui Ye**, Ke Wang, Yining Chen, Xiaohong Jiang, Guanghua Song. **IEEE transactions on Mobile Computing 2022** 
+
+[**Project**](https://github.com/yerfor/Soft-DRGN) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/Soft-DRGN)
+
+- 提出利用图注意力网络实现多智能体间可学习的通讯协作，配合GRU实现历史信息的利用。
+
+</div>
+</div>
+
+
 - [Multi-agent Deep Reinforcement Learning for Voltage Control with Coordinated Active and Reactive Power Optimization](https://ieeexplore.ieee.org/document/9805763), Daner Hu, **Zhenhui Ye**, Yuanqi Gao, Zuzhao Ye, Yonggang Peng, Napeng Yu, **IEEE transactions on Smart Grid 2022**
 - [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://www.aclweb.org/anthology/2020.acl-main.350), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
