@@ -1,23 +1,5 @@
 # 📝 学术论文
 
-## 🎙 语音合成
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](https://arxiv.org/abs/2204.11792) \\
-**Zhenhui Ye**, Zhou Zhao, Yi Ren, Fei Wu, **IJCAI 2022**
-
-[**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
-
-- SyntaSpeech是首个句法感知的非自回归语音合成模型。 
-- 我们设计了一个从纯文本构建句法图的方法和一个对应的图编码器，它可以从输入的文本中提取有用的句法信息，以提升韵律建模。
-
-</div>
-</div>
-
-- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-
 
 ## 🦸 说话人视频合成（虚拟人）
 
@@ -35,6 +17,25 @@
 
 </div>
 </div>
+
+
+## 🎙 语音合成
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](https://arxiv.org/abs/2204.11792) \\
+**Zhenhui Ye**, Zhou Zhao, Yi Ren, Fei Wu, **IJCAI 2022**
+
+[**Project**](https://github.com/yerfor/SyntaSpeech) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
+
+- SyntaSpeech是首个句法感知的非自回归语音合成模型。 
+- 我们设计了一个从纯文本构建句法图的方法和一个对应的图编码器，它可以从输入的文本中提取有用的句法信息，以提升韵律建模。
+
+</div>
+</div>
+
+- [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, Yi Ren, Jinglin Liu, **Zhenhui Ye**, **NeurIPS 2022**, [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
 
 
 ## 📚 深度强化学习与多智能体系统
