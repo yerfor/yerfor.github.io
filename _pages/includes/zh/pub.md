@@ -14,6 +14,8 @@
 - GeneFace++ 是一个先进的虚拟人合成系统，它致力于实现高泛化的语音-嘴形对齐、优秀的视频质量和高系统效率。
 - 它大大提升了现有基于NeRF的虚拟人算法的稳定性和效率。
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='../images/geneface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -81,10 +83,11 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence 2022</div><img src='../images/experience_augmentation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://link.springer.com/article/10.1007/s10489-021-02554-5), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
+- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://link.springer.com/article/10.1007/s10489-021-02554-5) \\
+**Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
 
 - 我们提出经验增强（Experience Augmentation）机制，以提升同构多智能体强化学习任务的样本效率。
 - 我们提出了PEDMA，一个高样本效率的MARL训练方案。
