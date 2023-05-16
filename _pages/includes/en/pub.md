@@ -14,6 +14,8 @@
 - GeneFace++ is a modern talking face system that aims to achieve the goal of generalized lip synchronization, good video quality, and high system efficiency.
 - It greatly improves the stability and efficiency of NeRF-based methods.
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='../images/geneface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +45,8 @@
 
 - CLAPSpeech is the first cross-modal contrastive learning method that focus on extracting prosody-related text representation for text-to-speech (TTS).
 - It provides a convenient plug-in text encoder applicable for all TTS models to improve prosody.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/synta.png' alt="sym" width="100%"></div></div>
