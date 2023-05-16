@@ -83,7 +83,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2022</div><img src='../images/drgn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://www.aclweb.org/anthology/2020.acl-main.350), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
+- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://link.springer.com/article/10.1007/s10489-021-02554-5), **Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
 
 - We propose Experience Augmentation (EA) to improve the sample efficiency for homogeneous MARL tasks.
 - We propose a sample-efficient training pipeline called PEDMA.
