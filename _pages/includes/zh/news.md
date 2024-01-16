@@ -1,3 +1,3 @@
 # 🔥 近期进展
 
-- 5 papers accepted by ACL 2023!
+- 2 papers accepted by ICLR 2024!
