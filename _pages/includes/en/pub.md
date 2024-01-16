@@ -1,7 +1,23 @@
 # 📝 Publications
 
 
-## 🦸 Digital Human
+## 🦸 Digital Avatar
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='../images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb) \\
+**Zhenhui Ye**, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, Rongjie Huang, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao
+
+**ICLR 2024 Spotlight** 
+
+[**Project Page**](https://real3dportrait.github.io/) [![img](https://img.shields.io/github/stars/yerfor/Real3DPortrait?style=social)](https://github.com/yerfor/Real3DPortrait)
+
+- Real3D-Portrait is the first one-shot NeRF-based talking face system with realistic head, torso, and background segments.
+- It facilitates both audio / video-driven one-shot talking face generation.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='../images/geneface++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -9,7 +25,9 @@
 [Geneface++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation](https://arxiv.org/abs/2305.00787) \\
 **Zhenhui Ye**, Jinzheng He, Ziyue Jiang, Rongjie Huang, Jiangwei Huang, Jinglin Liu, Yi Ren, Xiang Yin, Zejun Ma, Zhou Zhao
 
-[**Project Page**](https://genefaceplusplus.github.io)) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
+**Under Review** 
+
+[**Project Page**](https://genefaceplusplus.github.io)) [![img](https://img.shields.io/github/stars/yerfor/GeneFacePlusPlus?style=social)](https://github.com/yerfor/GeneFacePlusPlus)
 
 - GeneFace++ is a modern talking face system that aims to achieve the goal of generalized lip synchronization, good video quality, and high system efficiency.
 - It greatly improves the stability and efficiency of NeRF-based methods.
@@ -22,6 +40,8 @@
 
 [Geneface: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://arxiv.org/abs/2301.13430) \\
 **Zhenhui Ye**, Ziyue Jiang, Yi Ren, Jinglin Liu, Jinzheng He, Zhou Zhao
+
+**ICLR 2023 Poster** 
 
 [**Project Page**](https://geneface.github.io) [![img](https://img.shields.io/github/stars/yerfor/GeneFace?style=social)](https://github.com/yerfor/GeneFace)
 
@@ -41,6 +61,8 @@
 [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](https://arxiv.org/abs/2305.10763) \\
 **Zhenhui Ye**, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Zhou Zhao
 
+**ACL 2023 Poster** 
+
 [**Project Page**](https://clapspeech.github.io) [![img](https://img.shields.io/github/stars/yerfor/CLAPSpeech?style=social)](https://github.com/yerfor/CLAPSpeech)
 
 - CLAPSpeech is the first cross-modal contrastive learning method that focus on extracting prosody-related text representation for text-to-speech (TTS).
@@ -54,6 +76,8 @@
 
 [SyntaSpeech: Syntax-Aware Generative Adversarial Text-to-Speech](https://arxiv.org/abs/2204.11792) \\
 **Zhenhui Ye**, Zhou Zhao, Yi Ren, Fei Wu
+
+**IJCAI 2022 Poster** 
 
 [**Project Page**](https://syntaspeech.github.io) [![img](https://img.shields.io/github/stars/yerfor/SyntaSpeech?style=social)](https://github.com/yerfor/SyntaSpeech)
 
@@ -87,8 +111,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Intelligence 2022</div><img src='../images/experience_augmentation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://link.springer.com/article/10.1007/s10489-021-02554-5)\\
-**Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, **Applied Intelligence 2022**
+[Improving Sample Efficiency in Multi-Agent Actor-Critic Methods](https://link.springer.com/article/10.1007/s10489-021-02554-5)
+
+**Zhenhui Ye**, Yining Chen, Xiaohong Jiang, Guanghua Song, 
+
+**Applied Intelligence 2022**
 
 - We propose Experience Augmentation (EA) to improve the sample efficiency for homogeneous MARL tasks.
 - We propose a sample-efficient training pipeline called PEDMA.
