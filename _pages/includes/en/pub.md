@@ -6,6 +6,24 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='../images/real3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://openreview.net/forum?id=gjEzL0bamb) \\
+**Zhenhui Ye**, Tianyun Zhong, Yi Ren, Ziyue Jiang, Jiawei Huang, Rongjie Huang, Jinglin Liu, Chen Zhang, Zehan Wang, Xize Chen, Xiang Yin, Zhou Zhao
+
+**NeurIPS 2024** 
+
+[**Project Page**](https://mimictalk.github.io/) [![img](https://img.shields.io/github/stars/yerfor/MimicTalk?style=social)](https://github.com/yerfor/MimicTalk)
+
+- MimicTalk aims at training a high-quality personalized digital avatar in several minutes.
+- By ICS-A2M Model, we can in-context mimicking the talking style of the target ID.
+- By fine-tuning Real3D-Portrait (Our previous large-scale talking face model), we can achieve fast adaptation in several minutes.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='../images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://openreview.net/forum?id=7ERQPyR2eb) \\
 **Zhenhui Ye**, Tianyun Zhong, Yi Ren, Jiaqi Yang, Weichuang Li, Jiawei Huang, Ziyue Jiang, Jinzheng He, Rongjie Huang, Jinglin Liu, Chen Zhang, Xiang Yin, Zejun MA, Zhou Zhao
 
