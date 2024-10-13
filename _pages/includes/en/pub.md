@@ -3,7 +3,7 @@
 
 ## 🦸 Digital Avatar
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 Spotlight</div><img src='../images/real3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../images/mimictalk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MimicTalk: Mimicking a personalized and expressive 3D talking face in few minutes](https://openreview.net/forum?id=gjEzL0bamb) \\
