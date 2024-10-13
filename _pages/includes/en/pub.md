@@ -81,7 +81,7 @@
 
 **ACL 2023 Poster** 
 
-[**Project Page**](https://clapspeech.github.io) [![img](https://img.shields.io/github/stars/yerfor/CLAPSpeech?style=social)](https://github.com/yerfor/CLAPSpeech)
+[**Project Page**](https://clapspeech.github.io)
 
 - CLAPSpeech is the first cross-modal contrastive learning method that focus on extracting prosody-related text representation for text-to-speech (TTS).
 - It provides a convenient plug-in text encoder applicable for all TTS models to improve prosody.

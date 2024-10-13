@@ -81,7 +81,7 @@
 
 **ACL 2023 Poster**
 
-[**Project Page**](https://clapspeech.github.io) [![img](https://img.shields.io/github/stars/yerfor/CLAPSpeech?style=social)](https://github.com/yerfor/CLAPSpeech)
+[**Project Page**](https://clapspeech.github.io)
 
 - CLAPSpeech是首个聚焦于提取韵律相关的文本表征学习工作。也是首个将文本-语音跨模态对比学习用于语音合成领域的工作。
 - 它为现有的语音合成系统提供了一个方便可插拔的文本编码器，可以明显提升现有语音合成模型的韵律性能。
